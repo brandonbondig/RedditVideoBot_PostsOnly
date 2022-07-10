@@ -17,11 +17,13 @@ https://user-images.githubusercontent.com/24784535/178157720-69bf0c3b-ff72-45ee-
 
 1. Clone this repository
 
-2. Run `pip install -r requirements.txt`
+2. Download [bbswitzer's](https://www.youtube.com/watch?v=n_Dv4JMiwK8) video, and insert it into `minecraft_video`
 
-3. Run `playwright install`
+3. Run `pip install -r requirements.txt`
 
-4. Run `python main.py`
+4. Run `playwright install`
+
+5. Run `python main.py`
  
 You might also need to install [ImageMagick](https://imagemagick.org/script/download.php) and set the moviepy's config to the ImageMagick directory.
 
