@@ -4,9 +4,9 @@
 Inspired by https://github.com/elebumm Reddit bot, i decided to do my own take on the project.
 
 ## Demo
-
 ### Heres what to expect from the bot:
-![Imgur Image](https://i.imgur.com/phU3xsM.jpeg)
+
+https://user-images.githubusercontent.com/24784535/178157720-69bf0c3b-ff72-45ee-aeba-84644d51da96.mp4
 
 ## Disclaimers
 
